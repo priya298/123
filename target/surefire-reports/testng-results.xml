@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85657" started-at="2018-06-01T04:52:13Z" finished-at="2018-06-01T04:53:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85657" started-at="2018-06-01T04:52:13Z" finished-at="2018-06-01T04:53:39Z">
+      <class name="com.hdfc.load.eduloan.LinkTesting">
+        <test-method status="PASS" signature="vishnu(java.lang.String)[pri:0, instance:com.hdfc.load.eduloan.LinkTesting@6e0e048a]" name="vishnu" is-config="true" duration-ms="84814" started-at="2018-06-01T04:52:13Z" finished-at="2018-06-01T04:53:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vishnu -->
+        <test-method status="PASS" signature="linkTesting()[pri:0, instance:com.hdfc.load.eduloan.LinkTesting@6e0e048a]" name="linkTesting" duration-ms="764" started-at="2018-06-01T04:53:38Z" finished-at="2018-06-01T04:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTesting -->
+        <test-method status="PASS" signature="priya()[pri:0, instance:com.hdfc.load.eduloan.LinkTesting@6e0e048a]" name="priya" is-config="true" duration-ms="0" started-at="2018-06-01T04:53:39Z" finished-at="2018-06-01T04:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priya -->
+      </class> <!-- com.hdfc.load.eduloan.LinkTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
